@@ -1,5 +1,5 @@
 {
-  "name": "create-next-example-app",
+  "name": "delivery-system",
   "description": "A Next.js starter app.",
   "repository": {
     "type": "git",
@@ -8,10 +8,13 @@
   "license": "MIT",
   "scripts": {
     "dev": "next",
+    "now-dev": "now dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.9.1",
+    "@material-ui/icons": "^4.9.1",
     "next": "^9.1.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
