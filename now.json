@@ -1,0 +1,6 @@
+{
+  "name": "delivery-system",
+  "env": {
+    "API_URI": "@api-uri"
+  }
+}
